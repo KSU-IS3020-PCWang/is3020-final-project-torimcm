@@ -1,0 +1,4 @@
+- Student name: Tori McManus
+- GitHub username: torimcm
+- Project title: The Pet Care Manager.
+- Application purpose: The Pet Care Manager helps pet owners keep track of their pets information, feeding schedules, and medications. It provides a simple way to organize pet care records in one place.
